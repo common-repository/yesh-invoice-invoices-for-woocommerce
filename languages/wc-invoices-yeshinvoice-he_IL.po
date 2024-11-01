@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yesh Invoice Invoices for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-26 06:31+0000\n"
+"PO-Revision-Date: 2023-07-25 06:58+0000\n"
+"Last-Translator: Ofek\n"
+"Language-Team: עִבְרִית\n"
+"Language: he-IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: wc-invoices-yeshinvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:165
+msgid " Yesh Invoice Invoices for WooCommerce"
+msgstr "יש חשבוניות חשבוניות עבור WooCommerce"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:228
+msgid "Currency ID "
+msgstr "מזהה מטבע"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:286
+msgid "Do you want to send Invoice Email to customer?"
+msgstr "האם ברצונך לשלוח אימייל חשבונית ללקוח?"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:274
+msgid "Do you want to send Invoice SMS to customer?"
+msgstr "האם אתה רוצה לשלוח חשבונית SMS ללקוח?"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:331 
+#: admin/class-wc-invoices-yeshinvoice-admin.php:360 
+#: admin/class-wc-invoices-yeshinvoice-admin.php:379 
+#: public/class-wc-invoices-yeshinvoice-public.php:211
+msgid "Download Invoice here"
+msgstr "הורד את החשבונית כאן"
+
+#. URI of the plugin
+msgid "https://yeshinvoice.co.il"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://yeshinvoice.co.il/contact.html"
+msgstr ""
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:242
+msgid "Invoice Language ID"
+msgstr "מזהה שפת חשבונית"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:159
+msgid "Invoice Title"
+msgstr "כותרת החשבונית"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:256
+msgid "Invoice Type"
+msgstr "סוג חשבונית"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:188
+msgid "InvoiceNotes"
+msgstr "הערות חשבונית"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:175
+msgid "InvoiceNotesBottom"
+msgstr "הערות חשבונית למטה"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:354
+msgid "No Invoice genrated yet."
+msgstr "עדיין לא נוצרה חשבונית."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:260
+msgid "Reciept"
+msgstr "קבלה"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:203
+msgid "Secret Key"
+msgstr "מפתח סודי"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:282
+msgid "Send Invoice Email"
+msgstr "שלח את המסמך באימייל"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:270
+msgid "Send Invoice SMS"
+msgstr "שלח את המסמך ב - SMS"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:270
+msgid "Create shipping certificate"
+msgstr "הפקת תעודת משלוח בכל הזמנה"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:359
+msgid "Thank you! Your invoice has been created with YeshInvoice."
+msgstr "תודה! החשבונית שלך נוצרה עם YeshInvoice."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:163 
+#: admin/class-wc-invoices-yeshinvoice-admin.php:179 
+#: admin/class-wc-invoices-yeshinvoice-admin.php:192
+msgid "This controls the description which the user sees on yesh invoice."
+msgstr "זה שולט בתיאור שהמשתמש רואה ב-YeshInvoice."
+
+#. Description of the plugin
+msgid ""
+"The best system for generating invoices and receipts for WooCommerce"
+msgstr "יש חשבונית הפקת חשבוניות וקבלות בצורה קלה ומהירה דרך WooCommerce"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:215
+msgid "User Key"
+msgstr "מפתח משתמש"
+
+#. Author of the plugin
+#: admin/class-wc-invoices-yeshinvoice-admin.php:128
+msgid "Yesh Invoice"
+msgstr "יש חשבונית"
+
+#. Name of the plugin
+msgid "Yesh Invoice Invoices for WooCommerce"
+msgstr "יש חשבוניות חשבוניות עבור WooCommerce"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:151
+msgid "Yesh Invoice Settings"
+msgstr "יש הגדרות חשבונית"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:312
+msgid "YeshInvoice"
+msgstr "YeshInvoice"
+
+#: public/class-wc-invoices-yeshinvoice-public.php:208
+msgid "yeshInvoice"
+msgstr "yeshInvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:342 
+#: admin/class-wc-invoices-yeshinvoice-admin.php:369
+msgid "YeshInvoice Download"
+msgstr "הורדת YeshInvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:205
+msgid "YeshInvoice SecretKey goes here."
+msgstr "המפתח הסודי של YeshInvoice נכנס לכאן."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:217
+msgid "YeshInvoice UserKey goes here."
+msgstr "מפתח המשתמש של YeshInvoice נכנס לכאן."
+
+#: public/class-wc-invoices-yeshinvoice-public.php:209
+msgid "Your Invoice has been created successfully with Yesh Invoice."
+msgstr "החשבונית שלך נוצרה בהצלחה עם YeshInvoice."

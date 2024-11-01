@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yesh Invoice Invoices for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-26 06:14+0000\n"
+"PO-Revision-Date: 2021-10-26 08:32+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: wc-invoices-yeshinvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:165
+msgid " Yesh Invoice Invoices for WooCommerce"
+msgstr "فواتير YeshInvoice لـ WooCommerce"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:228
+msgid "Currency ID "
+msgstr "معرف العملة"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:286
+msgid "Do you want to send Invoice Email to customer?"
+msgstr "هل تريد إرسال الفاتورة بالبريد الإلكتروني إلى العميل؟"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:274
+msgid "Do you want to send Invoice SMS to customer?"
+msgstr "هل تريد إرسال الفاتورة إلى العميل؟"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:331
+#: admin/class-wc-invoices-yeshinvoice-admin.php:360
+#: admin/class-wc-invoices-yeshinvoice-admin.php:379
+#: public/class-wc-invoices-yeshinvoice-public.php:211
+msgid "Download Invoice here"
+msgstr "قم بتنزيل الفاتورة هنا"
+
+#. URI of the plugin
+msgid "https://yeshinvoice.co.il"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://yeshinvoice.co.il/contact.html"
+msgstr ""
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:242
+msgid "Invoice Language ID"
+msgstr "معرف لغة الفاتورة"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:159
+msgid "Invoice Title"
+msgstr "عنوان الفاتورة"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:256
+msgid "Invoice Type"
+msgstr "نوع الفاتورة"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:188
+msgid "InvoiceNotes"
+msgstr "ملاحظات الفاتورة"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:175
+msgid "InvoiceNotesBottom"
+msgstr "ملاحظات الفاتورة السفلي"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:354
+msgid "No Invoice genrated yet."
+msgstr "لم يتم إنشاء فاتورة حتى الآن."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:260
+msgid "Reciept"
+msgstr "استلام"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:203
+msgid "Secret Key"
+msgstr "المفتاح السري"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:282
+msgid "Send Invoice Email"
+msgstr "إرسال الفاتورة بالبريد الإلكتروني"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:270
+msgid "Send Invoice SMS"
+msgstr "إرسال الفاتورة SMS"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:359
+msgid "Thank you! Your invoice has been created with YeshInvoice."
+msgstr "شكرا لك! تم إنشاء فاتورتك باستخدام YeshInvoice."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:163
+#: admin/class-wc-invoices-yeshinvoice-admin.php:179
+#: admin/class-wc-invoices-yeshinvoice-admin.php:192
+msgid "This controls the description which the user sees on yesh invoice."
+msgstr "يتحكم هذا في الوصف الذي يراه المستخدم في فاتورة يش."
+
+#. Description of the plugin
+msgid ""
+"The best system for generating invoices and receipts for WooCommerce"
+msgstr ""
+"هذا وصف موجز لما يفعله البرنامج المساعد. يتم عرضه في منطقة إدارة WordPress."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:215
+msgid "User Key"
+msgstr "مفتاح المستخدم"
+
+#. Author of the plugin
+#: admin/class-wc-invoices-yeshinvoice-admin.php:128
+msgid "Yesh Invoice"
+msgstr "يش الفاتورة"
+
+#. Name of the plugin
+msgid "Yesh Invoice Invoices for WooCommerce"
+msgstr "فواتير يش فواتير WooCommerce"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:151
+msgid "Yesh Invoice Settings"
+msgstr "إعدادات الفاتورة يش"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:312
+msgid "YeshInvoice"
+msgstr "YeshInvoice"
+
+#: public/class-wc-invoices-yeshinvoice-public.php:208
+msgid "yeshInvoice"
+msgstr "YeshInvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:342
+#: admin/class-wc-invoices-yeshinvoice-admin.php:369
+msgid "YeshInvoice Download"
+msgstr "تحميل YeshInvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:205
+msgid "YeshInvoice SecretKey goes here."
+msgstr "يذهب مفتاح YeshInvoice السري هنا."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:217
+msgid "YeshInvoice UserKey goes here."
+msgstr "يظهر مفتاح مستخدم YeshInvoice هنا."
+
+#: public/class-wc-invoices-yeshinvoice-public.php:209
+msgid "Your Invoice has been created successfully with Yesh Invoice."
+msgstr "تم إنشاء فاتورتك بنجاح باستخدام Yesh Invoice."

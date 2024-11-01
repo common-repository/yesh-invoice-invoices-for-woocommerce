@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yesh Invoice Invoices for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-26 06:31+0000\n"
+"PO-Revision-Date: 2021-10-26 08:33+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: wc-invoices-yeshinvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:165
+msgid " Yesh Invoice Invoices for WooCommerce"
+msgstr "Счета-фактуры YeshInvoice для WooCommerce"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:228
+msgid "Currency ID "
+msgstr "Идентификатор валюты"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:286
+msgid "Do you want to send Invoice Email to customer?"
+msgstr "Вы хотите отправить клиенту электронное письмо со счетом-фактурой?"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:274
+msgid "Do you want to send Invoice SMS to customer?"
+msgstr "Вы хотите отправить клиенту SMS со счетом-фактурой?"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:331
+#: admin/class-wc-invoices-yeshinvoice-admin.php:360
+#: admin/class-wc-invoices-yeshinvoice-admin.php:379
+#: public/class-wc-invoices-yeshinvoice-public.php:211
+msgid "Download Invoice here"
+msgstr "Скачать счет-фактуру здесь"
+
+#. URI of the plugin
+msgid "https://yeshinvoice.co.il"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://yeshinvoice.co.il/contact.html"
+msgstr ""
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:242
+msgid "Invoice Language ID"
+msgstr "Идентификатор языка счета"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:159
+msgid "Invoice Title"
+msgstr "Название счета-фактуры"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:256
+msgid "Invoice Type"
+msgstr "Тип счета"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:188
+msgid "InvoiceNotes"
+msgstr "Примечания к счету"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:175
+msgid "InvoiceNotesBottom"
+msgstr "Примечания к счету внизу"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:354
+msgid "No Invoice genrated yet."
+msgstr "Счета-фактуры еще не созданы."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:260
+msgid "Reciept"
+msgstr "Получение"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:203
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:282
+msgid "Send Invoice Email"
+msgstr "Отправить счет по электронной почте"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:270
+msgid "Send Invoice SMS"
+msgstr "Отправить счет по SMS"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:359
+msgid "Thank you! Your invoice has been created with YeshInvoice."
+msgstr "Спасибо! Ваш счет был создан с помощью YeshInvoice."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:163
+#: admin/class-wc-invoices-yeshinvoice-admin.php:179
+#: admin/class-wc-invoices-yeshinvoice-admin.php:192
+msgid "This controls the description which the user sees on yesh invoice."
+msgstr "Это контролирует описание, которое пользователь видит в YeshInvoice."
+
+#. Description of the plugin
+msgid ""
+"The best system for generating invoices and receipts for WooCommerce"
+msgstr ""
+"Это краткое описание того, что делает плагин. Он отображается в админке "
+"WordPress."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:215
+msgid "User Key"
+msgstr "Пользовательский ключ"
+
+#. Author of the plugin
+#: admin/class-wc-invoices-yeshinvoice-admin.php:128
+msgid "Yesh Invoice"
+msgstr "Еш Счет-фактура"
+
+#. Name of the plugin
+msgid "Yesh Invoice Invoices for WooCommerce"
+msgstr "Счета-фактуры YeshInvoice для WooCommerce"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:151
+msgid "Yesh Invoice Settings"
+msgstr "Настройки счета-фактуры"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:312
+msgid "YeshInvoice"
+msgstr "YeshInvoice"
+
+#: public/class-wc-invoices-yeshinvoice-public.php:208
+msgid "yeshInvoice"
+msgstr "YeshInvoice"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:342
+#: admin/class-wc-invoices-yeshinvoice-admin.php:369
+msgid "YeshInvoice Download"
+msgstr "YeshInvoice Скачать"
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:205
+msgid "YeshInvoice SecretKey goes here."
+msgstr "Здесь находится YeshInvoice SecretKey."
+
+#: admin/class-wc-invoices-yeshinvoice-admin.php:217
+msgid "YeshInvoice UserKey goes here."
+msgstr "Здесь находится ключ пользователя YeshInvoice."
+
+#: public/class-wc-invoices-yeshinvoice-public.php:209
+msgid "Your Invoice has been created successfully with Yesh Invoice."
+msgstr "YourInvoice был успешно создан с Yesh Invoice."
